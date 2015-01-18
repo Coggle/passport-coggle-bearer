@@ -1,0 +1,32 @@
+{
+  "name": "coggle-passport-bearer",
+  "version": "0.0.1",
+  "description": "HTTP Bearer authentication strategy for Passport.",
+  "keywords": [
+    "passport",
+    "auth",
+    "authn",
+    "authentication",
+    "authz",
+    "authorization",
+    "http",
+    "bearer",
+    "token",
+    "oauth"
+  ],
+  "author": {
+    "name": "Andy Pritchard",
+    "email": "andy@coggle.it"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/MIT"
+    }
+  ],
+  "main": "./lib",
+  "dependencies": {
+    "passport-http-bearer": "^1.0.1",
+    "request": "^2.51.0"
+  }
+}
