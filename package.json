@@ -1,6 +1,6 @@
 {
   "name": "passport-coggle-bearer",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "HTTP Bearer authentication strategy for Passport.",
   "keywords": [
     "passport",
